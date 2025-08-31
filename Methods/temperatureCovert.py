@@ -21,5 +21,5 @@ while wtd != 3:
         print(f"{F}°F = {far_cel(F)}°C")
     else:
         print("Thank You for Using")
-        print("Made by #trooperdroid01@penguin")
+        print("Made by dmcodebit")
         break
