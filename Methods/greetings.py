@@ -8,10 +8,10 @@ greetings()
 def greetings_1(name):
     print("Hello,",name+"!")
 
-greetings_1("Devansh")
+greetings_1("mark")
 
 ##3-Has Return & Has Parameters##
 def greetings_3(name):
     return f"Hello, {name}!"
 
-print(greetings_3("DeVaNsH"))
+print(greetings_3("MaRkMaN"))
